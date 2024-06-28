@@ -1,1 +1,1 @@
-# stai
+# Sustainable Transition with AI
